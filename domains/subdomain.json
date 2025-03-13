@@ -1,0 +1,11 @@
+{
+    "description": "A short description of my digital life",
+    "repo": "https://github.com/adialix/github-repository",
+    "owner": {
+        "username": "adialix",
+        "email": "adialix.github.dev.aspect972@passmail.net"
+    },
+    "record": {
+        "CNAME": "adialix.github.io"
+    }
+}
