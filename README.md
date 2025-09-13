@@ -1,1 +1,0 @@
-# adialix.github.io
